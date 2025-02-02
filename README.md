@@ -20,7 +20,6 @@ I'm currently working on secret projects for myself and for my betterment opport
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pratik-chau&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pratik-chau&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratik-chau&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pratik-chau&theme=radical&no-frame=true&no-bg=true&margin-w=4)
