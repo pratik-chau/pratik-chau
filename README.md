@@ -1,9 +1,9 @@
 # 💫 About Me:
-I'm currently working on secret projects for myself and for my betterment opportunities in the market.<br>I'm looking for help with some collaborators which will help for my further upliftment in the career.<br>I'm currently learning html, css, javascript and some bit how python.<br>
-
+*Working on confidential projects to enhance career opportunities.<br>
+Seeking collaborators to contribute to growth and success.<br>
+Currently learning HTML, CSS, JavaScript, and some Python.*
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratik-chau&label=Profile%20views&color=0e75b6&style=flat" alt="pratik-chau" /> </p>
-
-
+<hr>
 ## 🌐 Socials:
 <a href="https://instagram.com/pratiieiik" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
