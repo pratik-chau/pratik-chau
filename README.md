@@ -4,6 +4,7 @@ Seeking collaborators to contribute to growth and success.<br>
 Currently learning HTML, CSS, JavaScript, and some Python.*
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratik-chau&label=Profile%20views&color=0e75b6&style=flat" alt="pratik-chau" /> </p>
 <hr>
+
 ## 🌐 Socials:
 <a href="https://instagram.com/pratiieiik" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
